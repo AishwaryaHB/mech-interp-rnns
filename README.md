@@ -1,3 +1,9 @@
+<p align="center" style="margin-bottom: 0.5em;">
+  <a href="https://github.com/LINK" style="display:inline-block; padding:8px 16px; margin:4px; background-color:#1f6feb; color:white; text-decoration:none; border-radius:6px; font-size:14px;">GitHub</a>
+  <a href="https://NEUREPS_LINK" style="display:inline-block; padding:8px 16px; margin:4px; background-color:#1f6feb; color:white; text-decoration:none; border-radius:6px; font-size:14px;">NeurReps '25 Paper</a>
+  <a href="https://COSYNE_LINK" style="display:inline-block; padding:8px 16px; margin:4px; background-color:#1f6feb; color:white; text-decoration:none; border-radius:6px; font-size:14px;">COSYNE '26 Poster</a>
+</p>
+
 # From Black Boxes to Circuit Diagrams
 ### Time-Resolved Neuronal Circuit Discovery in RNNs via Windowed Causal Interventions and Local Linearization
 
