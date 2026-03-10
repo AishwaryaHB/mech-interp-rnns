@@ -2,6 +2,7 @@
   <a href="https://github.com/AishwaryaHB/mech-interp-rnns/" target="_target" style="display:inline-block; padding:8px 16px; margin:4px; background-color:#0969da; color:white; text-decoration:none; border-radius:6px; font-size:14px; font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif;">GitHub</a>
   <a href="https://openreview.net/forum?id=KxEselcinr" target="_target" style="display:inline-block; padding:8px 16px; margin:4px; background-color:#0969da; color:white; text-decoration:none; border-radius:6px; font-size:14px; font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif;">NeurReps '25 Paper</a>
   <a href="https://drive.google.com/file/d/10v1HZv70PXbKJmz1eDuecSIlr5n-hEPX/view?usp=sharing" target="_target" style="display:inline-block; padding:8px 16px; margin:4px; background-color:#0969da; color:white; text-decoration:none; border-radius:6px; font-size:14px; font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif;">COSYNE '26 Poster</a>
+  <a href="https://aishwaryahb.github.io/mech-interp-rnns/" target="_target" style="display:inline-block; padding:8px 16px; margin:4px; background-color:#0969da; color:white; text-decoration:none; border-radius:6px; font-size:14px; font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif;">Preprint: Coming Soon!</a>
 </p>
 
 # From Black Boxes to Circuit Diagrams
